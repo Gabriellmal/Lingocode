@@ -115,6 +115,6 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 **⭐ Star this repo if you find this concept helpful or interesting!**
 
-Made with ❤️ by [gabrielmal-dev](https://github.com/gabrielmal-dev)
+Made with ❤️ by [gabrielmal-dev]((https://github.com/Gabriellmal))
 
 </div>
