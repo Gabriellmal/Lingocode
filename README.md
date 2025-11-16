@@ -20,16 +20,16 @@
 
 ---
 
-# 🚀 Lingocode-v1
+# 🚀 Lingocode
 
 <div align="center">
 
 <!-- TODO: Add project logo -->
 
-[![GitHub stars](https://img.shields.io/github/stars/gabrielmal-dev/Lingocode-v1?style=for-the-badge)](https://github.com/gabrielmal-dev/Lingocode-v1/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/gabrielmal-dev/Lingocode-v1?style=for-the-badge)](https://github.com/gabrielmal-dev/Lingocode-v1/network)
-[![GitHub issues](https://img.shields.io/github/issues/gabrielmal-dev/Lingocode-v1?style=for-the-badge)](https://github.com/gabrielmal-dev/Lingocode-v1/issues)
-[![GitHub license](https://img.shields.io/github/license/gabrielmal-dev/Lingocode-v1?style=for-the-badge)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Gabriellmal/Lingocode?style=for-the-badge)](https://github.com/Gabriellmal/Lingocode/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Gabriellmal/Lingocode?style=for-the-badge)](https://github.com/Gabriellmal/Lingocode/network)
+[![GitHub issues](https://img.shields.io/github/issues/Gabriellmal/Lingocode?style=for-the-badge)](https://github.com/Gabriellmal/Lingocode/issues)
+[![GitHub license](https://img.shields.io/github/license/Gabriellmal/Lingocode?style=for-the-badge)](LICENSE)
 
 **A revolutionary approach to programming, eliminating boilerplate and complex prompt engineering.**
 
