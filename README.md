@@ -1,4 +1,5 @@
-# Lingocode
+# Lingocode-v3
+
 #Download https://deathrazor.itch.io/lingocode
 ## 🔍 Deep Code Analysis Report
 
@@ -112,9 +113,3 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 ---
 
 <div align="center">
-
-**⭐ Star this repo if you find this concept helpful or interesting!**
-
-Made with ❤️ by [gabrielmal-dev]((https://github.com/Gabriellmal))
-
-</div>
