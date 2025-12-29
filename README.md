@@ -9,9 +9,7 @@ It's designed to be a "self-healing" environment, meaning if the generated Pytho
 ## 📋 Table of Contents
 - [Overview: How it Works Internally](#-overview-how-it-works-internally)
 - [Running the Console](#-running-the-console)
-- [Special Features](#-special-features)
-- [Command Reference](#-command-reference)
-- [Example Workflows](#-example-workflows)
+
 
 ## 💡 Overview: How it Works Internally
 The LingoCode executable contains a full command-line interface that manages a powerful AI code engine. It handles everything internally to provide a seamless experience:
